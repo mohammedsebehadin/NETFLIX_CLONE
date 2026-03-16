@@ -1,6 +1,6 @@
 import React from "react";
 import "./header.css";
-import logo from "../../assets/images/logo.PNG";
+import logo from "../../assets/images/logo.png";
 import search from "../../assets/images/search.svg";
 import notification from "../../assets/images/notification.svg";
 import user from "../../assets/images/user.svg";
